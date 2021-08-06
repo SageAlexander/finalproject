@@ -16,7 +16,7 @@ Before I started, I froze and bolded the header row. On the College Type spreads
 
 To answer this question....
 1. I made a pivot table on Google Sheets. 
-2. I made my 'Row' was type of college
+2. I set my 'Row' as type of college
 3. I made my 'Values' as Mid-Career Median Salary, Starting Median Salary, and Mid-Career 90th Percentile Salary. I chose these three values to show the median salary of a well established professional in the field, a recent college graduate, and the highest earners from the college. The starting salary did not tell me much, other than an increased earning potential for recent Ivy league graduates. 
 4. I summarized the data by average and sorted by type.
 
@@ -60,4 +60,14 @@ To answer this question...
 > The three majors with the lowest change in salary over a carreer were STEM majors. Physician Assistant, Nursing, and Nutrition majors see a 23.4, 23.6, and 38.6 change respectively. Physician Assistant starting median salary is relatively high at $74,300.00, the highest starting salary out of all majors on the data sheet. The mid career median reaches $91,700.00. Nursing, on the other hand, is number 9 out of the starting salary list at $54,200.00, but only reaches $67,000.00 at mid career median. For reference, philosophy majors reach a mid career median of $81,200.00.
 
 
-*5. Are there any liberal arts majors that end up making lots of money?*
+*5. Are there any liberal arts majors in the top 10 median earners?*
+
+!['screenshot4.JPG', 'top median earners'](/screenshot4.JPG)
+
+To answer this question...
+1. I selected the other columns I wanted to hide
+2. I sorted Mid career salary by highest to lowest
+3. Here, I looked up to try and find what qualifies as liberal arts. I was not able to find a real list of what is considered liberal arts.
+4. Economics was the only one not on [this website](https://www.act.org/content/act/en/research/reports/act-publications/condition-of-stem-2013/stem-majors-and-occupations/stem-majors-and-occupations.html), but it seems like the category is a little squishy. For example, the University of Pennsylvania considers it STEM.
+
+> No there are not. There is, however, a non-STEM major in the top 10 median earners, economics. If we look in other categories, like the Mid-Career 90th Percentile Salary, Philosophy is at #10, making the top 10 cutoff! Economics is #1, Finance is #2, Marketing is #7, Construction is at #9, which are all non-stem. I would probably not consider any of them other than marketing a liberal arts, either. 
