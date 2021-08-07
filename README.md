@@ -1,5 +1,5 @@
 # Final Project
-### Data By Sage Alexander <br>
+### By Sage Alexander <br>
 
 This project was made possible by data from the Wall Street Journal, [Where it Pays to Attend College; Salaries by College and College Degree Program](https://www.kaggle.com/wsj/college-salaries/) and Payscale, Inc. 
 
@@ -71,3 +71,42 @@ To answer this question...
 4. Economics was the only one not on [this website](https://www.act.org/content/act/en/research/reports/act-publications/condition-of-stem-2013/stem-majors-and-occupations/stem-majors-and-occupations.html), but it seems like the category is a little squishy. For example, the University of Pennsylvania considers it STEM.
 
 > No there are not. There is, however, a non-STEM major in the top 10 median earners, economics. If we look in other categories, like the Mid-Career 90th Percentile Salary, Philosophy is at #10, making the top 10 cutoff! Economics is #1, Finance is #2, Marketing is #7, Construction is at #9, which are all non-stem. I would probably not consider any of them other than marketing a liberal arts, either. 
+
+
+
+# Is majoring in Nursing worth it?
+
+### Story Pitch
+
+Students pursuing a degree in Nursing are often looking for a stable career with good pay. The tradeoff that students accept is the hard work they put in as an undergraduate. Nursing majors have to keep high GPAs, take intense and difficult classes, and are often applying to programs that are heavily impacted (too many students are applying at once). While nursing major’s median starting salary is in the top ten of majors analysed by the Wall Street Journal at $54,200, their growing potential is limited. Nursing majors have a percent change from starting salaries to mid career salaries of only 23.6, the lowest of all majors analysed. Why are nursing majors not paid well for the high stress student lifestyle?
+
+## Who I would contact
+
+> National Nurses United, Press contact. Email press@calnurses.org Rachel Berger – (510) 433-2780
+
+The national contact for the Nurses Union, Rachel Berger, will help put into context what the current market for working nurses is like. This kind of broad overview will help me understand whether or not gains have been made recently for nurses.
+
+> Sharon Warner Associate Director and interim MSN (Entry into Nursing) Recruitment, Johns Hopkins University
+> 410-502-7215 | swarner7@jhu.edu 
+
+According to U.S. News and World Report, Johns Hopkins has the #1 nursing program in the U.S. Sharon Warner will help me understand if all Nursing students end up getting certified, and what Nursing students usually do after they graduate.
+
+> Robert Rosseter
+> rrosseter@aacnnursing.org
+> (202) 463-6930, ext. 231
+
+The American Association of Colleges of Nursing (AACN) put out a report in 2019 that studied the inadequate number of open seats for otherwise qualified nursing students, and Robert Rosseter is the contact. I can ask him why he thinks nursing students aren’t being paid that much if there’s a high demand and shortage of nurses.
+
+
+## Data Sources:
+
+> 1. Bureau of Labor Statistics, [Nursing](/https://www.bls.gov/oes/current/oes291141.htm#(2)) 
+
+Occupational Employment and Wages, May 2020 29-1141 Registered Nurses. I can compare what the median wage for working nurses is for nursing majors. For example, it says “The median annual wage for registered nurses was $75,330 in May 2020.”, which is different than what the median annual wage is for nursing majors. 
+
+> 2. The American Association of Colleges of Nursing, [2019 report](/https://www.aacnnursing.org/news-information/fact-sheets/nursing-faculty-shortage)
+
+The American Association of Colleges of Nursing (AACN) published this report in 2019. In the report it said it “found nursing schools could not accept over 75,000 qualified applicants for baccalaureate and graduate nursing programs in 2018 due to inadequate faculty, clinical sites, classroom space, clinical preceptors and budgets”. 
+
+
+
