@@ -26,6 +26,8 @@ To answer this question....
 
 !['screenshot1.JPG', 'College Type Earning'](/screenshot1.JPG)
 
+
+
 To answer this question, I used the same pivot table as before, but instead looked at the state and party schools. 
 
 
@@ -107,6 +109,17 @@ Occupational Employment and Wages, May 2020 29-1141 Registered Nurses. I can com
 > 2. The American Association of Colleges of Nursing, [2019 report](/https://www.aacnnursing.org/news-information/fact-sheets/nursing-faculty-shortage)
 
 The American Association of Colleges of Nursing (AACN) published this report in 2019. In the report it said it “found nursing schools could not accept over 75,000 qualified applicants for baccalaureate and graduate nursing programs in 2018 due to inadequate faculty, clinical sites, classroom space, clinical preceptors and budgets”. 
+
+
+
+https://datawrapper.dwcdn.net/rdqOf/1/
+
+!['majors with lowest change in salary'](/rdqOf-nine-college-majors-with-the-lowest-change-in-salary-over-a-career.png)
+
+
+https://datawrapper.dwcdn.net/uqmpf/1/
+
+!['Majors with lowest change in salary by starting and mid career medians'](/uqmpf-nine-college-majors-with-the-lowest-potential-for-salary-growth.png)
 
 
 
