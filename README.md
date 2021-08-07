@@ -4,7 +4,7 @@
 This project was made possible by data from the Wall Street Journal, [Where it Pays to Attend College; Salaries by College and College Degree Program](https://www.kaggle.com/wsj/college-salaries/) and Payscale, Inc. 
 
 My google sheets spreadsheet can be found [here.](https://docs.google.com/spreadsheets/d/1mSPW5yizGISr7Jcihzyeh2KGPuX2E4rtufE7YaNjahE/edit?usp=sharing)
-Before I started, I froze and bolded the header row. On the College Type spreadsheet, I added a column for TYPE of school for ease of pivot tables. 
+Before I started, I froze and bolded the header row for each of the sheets. On the salaries by College Type spreadsheet, I added a column for TYPE of school.
 
 #### QUESTIONS:
 *1. Are liberal arts colleges doorways to higher earning potential compared to other school types?*
@@ -17,7 +17,7 @@ Before I started, I froze and bolded the header row. On the College Type spreads
 To answer this question....
 1. I made a pivot table on Google Sheets. 
 2. I set my 'Row' as type of college
-3. I made my 'Values' as Mid-Career Median Salary, Starting Median Salary, and Mid-Career 90th Percentile Salary. I chose these three values to show the median salary of a well established professional in the field, a recent college graduate, and the highest earners from the college. The starting salary did not tell me much, other than an increased earning potential for recent Ivy league graduates. 
+3. I made my 'Values' Mid-Career Median Salary, Starting Median Salary, and Mid-Career 90th Percentile Salary. I chose these three values to show the median salary of a well established professional in the field, a recent college graduate, and the highest earners from the college. The starting salary did not tell me much, other than an increased earning potential for recent Ivy league graduates and engineering school graduates.
 4. I summarized the data by average and sorted by type.
 
 > Liberal arts colleges are, on average, more expensive to attend than public universities. The mid-career median salary for the Liberal arts and Party type of schools are not significantly different, with Liberal Arts school attendees salaries about 5 thousand dollars more per year. If a student incurs significant debt from the more expensive Liberal Arts colleges, it may not be financially wise to attend one over a state/party school. However, the 90th percentile earners from Liberal Arts colleges do make $191,142.86, compared to $166,947.3 for party schools and $173,333.33 for engineering schools. Mid career, high earners from liberal arts colleges therefore earn slightly more on average than those from the two types of schools.
@@ -52,9 +52,9 @@ To answer this question...
 
 
 To answer this question...
-1. I sorted the percent change from Starting to Mid-Career Salary from lowest to highest
+1. I sorted the percent change from Starting to Mid-Career Salary column from lowest to highest
 2. I found which majors are considered STEM (Science, Technology, Engineering, Math) with [this website](https://www.act.org/content/act/en/research/reports/act-publications/condition-of-stem-2013/stem-majors-and-occupations/stem-majors-and-occupations.html)
-3. I manually set the STEM majors that are in the bottom ten majors by percent change in salary to italics.
+3. I manually set the STEM majors within the bottom ten by percent change in salary to italics.
 4. I then sorted the list by starting median to learn more
 
 > The three majors with the lowest change in salary over a carreer were STEM majors. Physician Assistant, Nursing, and Nutrition majors see a 23.4, 23.6, and 38.6 change respectively. Physician Assistant starting median salary is relatively high at $74,300.00, the highest starting salary out of all majors on the data sheet. The mid career median reaches $91,700.00. Nursing, on the other hand, is number 9 out of the starting salary list at $54,200.00, but only reaches $67,000.00 at mid career median. For reference, philosophy majors reach a mid career median of $81,200.00.
@@ -70,7 +70,7 @@ To answer this question...
 3. Here, I looked up to try and find what qualifies as liberal arts. I was not able to find a real list of what is considered liberal arts.
 4. Economics was the only one not on [this website](https://www.act.org/content/act/en/research/reports/act-publications/condition-of-stem-2013/stem-majors-and-occupations/stem-majors-and-occupations.html), but it seems like the category is a little squishy. For example, the University of Pennsylvania considers it STEM.
 
-> No there are not. There is, however, a non-STEM major in the top 10 median earners, economics. If we look in other categories, like the Mid-Career 90th Percentile Salary, Philosophy is at #10, making the top 10 cutoff! Economics is #1, Finance is #2, Marketing is #7, Construction is at #9, which are all non-stem. I would probably not consider any of them other than marketing a liberal arts, either. 
+> No there are not. There is, however, a non-STEM major in the top 10 median earners, economics. If we look in other categories for fun, like the Mid-Career 90th Percentile Salary, Philosophy is at #10, making the top 10 cutoff! Economics is #1, Finance is #2, Marketing is #7, Construction is at #9, which are all non-stem. I would probably not consider any save marketing a liberal art.
 
 
 
@@ -78,24 +78,24 @@ To answer this question...
 
 ### Story Pitch
 
-Students pursuing a degree in Nursing are often looking for a stable career with good pay. The tradeoff that students accept is the hard work they put in as an undergraduate. Nursing majors have to keep high GPAs, take intense and difficult classes, and are often applying to programs that are heavily impacted (too many students are applying at once). While nursing major’s median starting salary is in the top ten of majors analysed by the Wall Street Journal at $54,200, their growing potential is limited. Nursing majors have a percent change from starting salaries to mid career salaries of only 23.6, the lowest of all majors analysed. Why are nursing majors not paid well for the high stress student lifestyle?
+Students pursuing a degree in nursing are often looking for a stable career path with good pay. The tradeoff that nursing students accept is the hard work they put in as an undergraduates. Nursing majors have to keep high GPAs, take intense and difficult classes, and are often applying to programs that are heavily impacted (too many students are applying at once). While nursing major’s median starting salary is in the top ten of majors analysed by the Wall Street Journal at $54,200, their growing potential is limited. Nursing majors have a percent change from starting salaries to mid career salaries of only 23.6, the lowest of all majors analysed. Why are nursing majors not paid well for the high stress student enviornment?
 
 ## Who I would contact
 
 > National Nurses United, Press contact. Email press@calnurses.org Rachel Berger – (510) 433-2780
 
-The national contact for the Nurses Union, Rachel Berger, will help put into context what the current market for working nurses is like. This kind of broad overview will help me understand whether or not gains have been made recently for nurses.
+The national contact for the NNU, a labor Union, Rachel Berger, will help put into context what the current market for working nurses is like. This kind of broad overview will help me understand whether or not gains have been made recently for nurses.
 
 > Sharon Warner Associate Director and interim MSN (Entry into Nursing) Recruitment, Johns Hopkins University
 > 410-502-7215 | swarner7@jhu.edu 
 
-According to U.S. News and World Report, Johns Hopkins has the #1 nursing program in the U.S. Sharon Warner will help me understand if all Nursing students end up getting certified, and what Nursing students usually do after they graduate.
+According to U.S. News and World Report, Johns Hopkins has the #1 nursing program in the U.S. Sharon Warner will help me understand if all Nursing students end up getting registered, and what Nursing students usually do after they graduate.
 
 > Robert Rosseter
 > rrosseter@aacnnursing.org
 > (202) 463-6930, ext. 231
 
-The American Association of Colleges of Nursing (AACN) put out a report in 2019 that studied the inadequate number of open seats for otherwise qualified nursing students, and Robert Rosseter is the contact. I can ask him why he thinks nursing students aren’t being paid that much if there’s a high demand and shortage of nurses.
+The American Association of Colleges of Nursing (AACN) put out a report in 2019 that studied the inadequate number of open seats for otherwise qualified nursing students, and Robert Rosseter is the listed contact. I can ask him why he thinks nursing students aren’t being paid that much if there’s a high demand and shortage of nurses.
 
 
 ## Data Sources:
