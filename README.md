@@ -129,8 +129,8 @@ To answer this question...
 > No there are not. 
 > There is, however, a non-STEM major in the top 10 median earners, economics. Economics was the only one not defined as STEM on [this website](https://www.act.org/content/act/en/research/reports/act-publications/condition-of-stem-2013/stem-majors-and-occupations/stem-majors-and-occupations.html), but it seems like the category is a little squishy. For example, the University of Pennsylvania considers it STEM.
 > 
-> If we look in a completely different category for fun, like the Mid-Career 90th Percentile Salary, Political Science is at #10, making the top 10 cutoff! To find this, I sorted Mid Career 90th Percentile Salary from High to low. 
-> !['screenshot5.JPG', '90th percentile earners'](/screenshot5.JPG)
+> If we look in a completely different category for fun, like the Mid-Career 90th Percentile Salary, Political Science is at #10, making the top 10 cutoff! To find this, I sorted Mid Career 90th Percentile Salary from High to low, and hid all other columns. 
+> !['screenshot7.JPG', '90th percentile earners'](/screenshot7.JPG)
 
 
 
