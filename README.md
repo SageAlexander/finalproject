@@ -56,7 +56,7 @@ Occupational Employment and Wages, May 2020 29-1141 Registered Nurses. I can com
 The American Association of Colleges of Nursing (AACN) published this report in 2019. In the report it said it “found nursing schools could not accept over 75,000 qualified applicants for baccalaureate and graduate nursing programs in 2018 due to inadequate faculty, clinical sites, classroom space, clinical preceptors and budgets”. 
 
 
-#### QUESTIONS:
+# QUESTIONS:
 *1. Liberal arts colleges are, on average, more expensive to attend than public universities. Do you make more if you attend a liberal arts school?*
 
 
